@@ -1,0 +1,44 @@
+<HTML>
+
+<header class="masthead">  
+
+<link rel="stylesheet" type="text/css" href="mystyle-2.css">    
+<p class="masthead-intro">Hi, I'm</p>
+<h1 class="masthead-heading">Matthew!</h1> 
+
+</header>
+
+<section class="introduction-section">
+    <h1>Introduction</h1>
+    <p>At present I work for baskeys, which is local a Property Development, Property Management and Lettings Company, which owns a portfolio of over 200 student properties. 
+I have the entire responsibility to manage 104 of these student properties, 394 tenants, for the full length of their tenancy from viewing to bond return.</p>
+    <p>What is important to me is... family, friends, work and play.</p>
+</section>
+
+<section class="location-section">
+    <h1>Where I'm From</h1>
+    <p>I live in Newcastle Upon Tyne, England. I have lived here all my life and think very highly of the city. It is not too large that it is a struggle to get around, you can easily walk from one side of the city centre to the other within 30 minuets. Although reletively small it still has an ample amount to see, including art garys, museums, cafes and plenty of bars/ nightlife venues.</p>
+</section>
+
+<section class="questions-section">
+    <h1>More About Me</h1>
+    <h2>What are your favorite hobbies?</h2>
+    <p>Before working full time i spent A LOT of my spare time listening to and dj'ing techno. I dj'ed for a few years in Newcastle and have also played in a Festival and Edinburgh, Scotland.</p>
+    <h2>What's your dream job?</h2>
+    <p>I am looking to change courir and would relishing the chance to become a programmer.</p>
+    <h2>What music have you been listening to lately?</h2>
+    <p> have been playing <a href="https://www.youtube.com/user/Altjband" target="_blank"> Alt-J's</a> new album on my walks to work, it's a grower and not too offensive to listen to in the mornings.</p>
+    
+  </section> 
+
+  <footer class= "content-footer">
+    <p>Say hi to me on these social networks</p>
+ 
+    <ul class= "social">
+    <li><a href="https://www.instagram.com/matthewrogerbailey" target="_blank"> instagram</a></li> 
+    <li><a href="https://www.facebook.com/matthew.roger.bailey" target="_blank"> facebook</a></li>
+    </ul>
+    
+    <p>cover image taken at <a href="https://www.facebook.com/HectorWho" target="_blank"> Hectors House</a></p>
+  
+  </footer>
